@@ -1,0 +1,9 @@
+.feedback_list {
+    width: fit-content;
+    margin: 0 auto;
+    padding: 10px;
+    border-radius: 8px;
+    background-color: #e8dcdc;
+    color: black;
+    box-shadow: -10px 0px 13px -7px #49ff18, 10px 0px 13px -7px #49ff18, 5px 32px 15px 15px rgba(0, 0, 0, 0);
+}
